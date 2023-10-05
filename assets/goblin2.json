@@ -1,0 +1,5912 @@
+{
+	"textures": [
+		{
+			"image": "goblin2-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 4096,
+				"h": 3202
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "__goblin_02_die_double_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 150,
+						"y": 345,
+						"w": 510,
+						"h": 271
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 510,
+						"h": 271
+					}
+				},
+				{
+					"filename": "__goblin_02_die_no_weapons_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 197,
+						"y": 345,
+						"w": 463,
+						"h": 271
+					},
+					"frame": {
+						"x": 513,
+						"y": 1,
+						"w": 463,
+						"h": 271
+					}
+				},
+				{
+					"filename": "__goblin_02_die_single_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 197,
+						"y": 345,
+						"w": 463,
+						"h": 271
+					},
+					"frame": {
+						"x": 978,
+						"y": 1,
+						"w": 463,
+						"h": 271
+					}
+				},
+				{
+					"filename": "__goblin_02_die_double_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 186,
+						"y": 201,
+						"w": 447,
+						"h": 329
+					},
+					"frame": {
+						"x": 1443,
+						"y": 1,
+						"w": 447,
+						"h": 329
+					}
+				},
+				{
+					"filename": "__goblin_02_die_no_weapons_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 217,
+						"y": 233,
+						"w": 420,
+						"h": 336
+					},
+					"frame": {
+						"x": 1892,
+						"y": 1,
+						"w": 420,
+						"h": 336
+					}
+				},
+				{
+					"filename": "__goblin_02_die_single_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 233,
+						"w": 457,
+						"h": 336
+					},
+					"frame": {
+						"x": 2314,
+						"y": 1,
+						"w": 457,
+						"h": 336
+					}
+				},
+				{
+					"filename": "__goblin_02_double_weapon_attack_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 146,
+						"w": 467,
+						"h": 394
+					},
+					"frame": {
+						"x": 2773,
+						"y": 1,
+						"w": 467,
+						"h": 394
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 163,
+						"w": 450,
+						"h": 395
+					},
+					"frame": {
+						"x": 3242,
+						"y": 1,
+						"w": 450,
+						"h": 395
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 163,
+						"w": 450,
+						"h": 395
+					},
+					"frame": {
+						"x": 3242,
+						"y": 1,
+						"w": 450,
+						"h": 395
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 163,
+						"w": 450,
+						"h": 395
+					},
+					"frame": {
+						"x": 3242,
+						"y": 1,
+						"w": 450,
+						"h": 395
+					}
+				},
+				{
+					"filename": "__goblin_02_defend_double_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 194,
+						"y": 155,
+						"w": 370,
+						"h": 403
+					},
+					"frame": {
+						"x": 3694,
+						"y": 1,
+						"w": 370,
+						"h": 403
+					}
+				},
+				{
+					"filename": "__goblin_02_defend_double_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 194,
+						"y": 155,
+						"w": 370,
+						"h": 403
+					},
+					"frame": {
+						"x": 3694,
+						"y": 1,
+						"w": 370,
+						"h": 403
+					}
+				},
+				{
+					"filename": "__goblin_02_defend_double_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 194,
+						"y": 155,
+						"w": 370,
+						"h": 403
+					},
+					"frame": {
+						"x": 3694,
+						"y": 1,
+						"w": 370,
+						"h": 403
+					}
+				},
+				{
+					"filename": "__goblin_02_run_single_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 129,
+						"w": 377,
+						"h": 425
+					},
+					"frame": {
+						"x": 1,
+						"y": 274,
+						"w": 377,
+						"h": 425
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_double_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 29,
+						"w": 387,
+						"h": 426
+					},
+					"frame": {
+						"x": 380,
+						"y": 274,
+						"w": 387,
+						"h": 426
+					}
+				},
+				{
+					"filename": "__goblin_02_run_double_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 117,
+						"w": 431,
+						"h": 428
+					},
+					"frame": {
+						"x": 769,
+						"y": 274,
+						"w": 431,
+						"h": 428
+					}
+				},
+				{
+					"filename": "__goblin_02_run_double_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 129,
+						"w": 403,
+						"h": 428
+					},
+					"frame": {
+						"x": 1202,
+						"y": 332,
+						"w": 403,
+						"h": 428
+					}
+				},
+				{
+					"filename": "__goblin_02_run_no_weapons_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 129,
+						"w": 377,
+						"h": 428
+					},
+					"frame": {
+						"x": 1607,
+						"y": 339,
+						"w": 377,
+						"h": 428
+					}
+				},
+				{
+					"filename": "__goblin_02_run_single_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 117,
+						"w": 413,
+						"h": 428
+					},
+					"frame": {
+						"x": 1986,
+						"y": 339,
+						"w": 413,
+						"h": 428
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_double_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 167,
+						"y": 112,
+						"w": 368,
+						"h": 445
+					},
+					"frame": {
+						"x": 2401,
+						"y": 339,
+						"w": 368,
+						"h": 445
+					}
+				},
+				{
+					"filename": "__goblin_02_run_single_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 129,
+						"w": 393,
+						"h": 428
+					},
+					"frame": {
+						"x": 2771,
+						"y": 397,
+						"w": 393,
+						"h": 428
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_double_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 126,
+						"w": 376,
+						"h": 428
+					},
+					"frame": {
+						"x": 3166,
+						"y": 398,
+						"w": 376,
+						"h": 428
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_single_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 124,
+						"w": 385,
+						"h": 429
+					},
+					"frame": {
+						"x": 3544,
+						"y": 406,
+						"w": 385,
+						"h": 429
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_double_weapon_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 113,
+						"w": 374,
+						"h": 439
+					},
+					"frame": {
+						"x": 1,
+						"y": 701,
+						"w": 374,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_no_weapons_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 113,
+						"w": 374,
+						"h": 439
+					},
+					"frame": {
+						"x": 377,
+						"y": 702,
+						"w": 374,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_run_single_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 105,
+						"w": 393,
+						"h": 439
+					},
+					"frame": {
+						"x": 753,
+						"y": 704,
+						"w": 393,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_single_weapon_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 113,
+						"w": 374,
+						"h": 439
+					},
+					"frame": {
+						"x": 1148,
+						"y": 762,
+						"w": 374,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_defend_double_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 1524,
+						"y": 769,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_double_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 1524,
+						"y": 769,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 1524,
+						"y": 769,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_no_weapons_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 1902,
+						"y": 769,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_single_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 2280,
+						"y": 786,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 2658,
+						"y": 827,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 3036,
+						"y": 828,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_double_weapon_attack_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 116,
+						"w": 376,
+						"h": 442
+					},
+					"frame": {
+						"x": 3414,
+						"y": 837,
+						"w": 376,
+						"h": 442
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_no_weapons_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 232,
+						"y": 112,
+						"w": 303,
+						"h": 445
+					},
+					"frame": {
+						"x": 3792,
+						"y": 837,
+						"w": 303,
+						"h": 445
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 115,
+						"w": 357,
+						"h": 445
+					},
+					"frame": {
+						"x": 1,
+						"y": 1142,
+						"w": 357,
+						"h": 445
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_no_weapons_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 115,
+						"w": 357,
+						"h": 445
+					},
+					"frame": {
+						"x": 360,
+						"y": 1143,
+						"w": 357,
+						"h": 445
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_double_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 111,
+						"w": 426,
+						"h": 445
+					},
+					"frame": {
+						"x": 719,
+						"y": 1145,
+						"w": 426,
+						"h": 445
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_no_weapons_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 111,
+						"w": 374,
+						"h": 445
+					},
+					"frame": {
+						"x": 1147,
+						"y": 1203,
+						"w": 374,
+						"h": 445
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_single_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 111,
+						"w": 412,
+						"h": 445
+					},
+					"frame": {
+						"x": 1523,
+						"y": 1212,
+						"w": 412,
+						"h": 445
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 106,
+						"w": 319,
+						"h": 453
+					},
+					"frame": {
+						"x": 1937,
+						"y": 1212,
+						"w": 319,
+						"h": 453
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 112,
+						"w": 376,
+						"h": 446
+					},
+					"frame": {
+						"x": 2258,
+						"y": 1229,
+						"w": 376,
+						"h": 446
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 112,
+						"w": 376,
+						"h": 446
+					},
+					"frame": {
+						"x": 2636,
+						"y": 1270,
+						"w": 376,
+						"h": 446
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 112,
+						"w": 376,
+						"h": 446
+					},
+					"frame": {
+						"x": 3014,
+						"y": 1271,
+						"w": 376,
+						"h": 446
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 111,
+						"w": 375,
+						"h": 447
+					},
+					"frame": {
+						"x": 3392,
+						"y": 1281,
+						"w": 375,
+						"h": 447
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_no_weapons_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 106,
+						"w": 319,
+						"h": 453
+					},
+					"frame": {
+						"x": 3769,
+						"y": 1284,
+						"w": 319,
+						"h": 453
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_double_weapon_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 102,
+						"w": 376,
+						"h": 452
+					},
+					"frame": {
+						"x": 1,
+						"y": 1590,
+						"w": 376,
+						"h": 452
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_no_weapons_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 102,
+						"w": 376,
+						"h": 452
+					},
+					"frame": {
+						"x": 379,
+						"y": 1592,
+						"w": 376,
+						"h": 452
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_single_weapon_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 102,
+						"w": 376,
+						"h": 452
+					},
+					"frame": {
+						"x": 757,
+						"y": 1592,
+						"w": 376,
+						"h": 452
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 104,
+						"w": 382,
+						"h": 454
+					},
+					"frame": {
+						"x": 1135,
+						"y": 1650,
+						"w": 382,
+						"h": 454
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 104,
+						"w": 382,
+						"h": 454
+					},
+					"frame": {
+						"x": 1519,
+						"y": 1659,
+						"w": 382,
+						"h": 454
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_no_weapons_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 184,
+						"y": 95,
+						"w": 304,
+						"h": 460
+					},
+					"frame": {
+						"x": 1903,
+						"y": 1667,
+						"w": 304,
+						"h": 460
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 104,
+						"w": 375,
+						"h": 454
+					},
+					"frame": {
+						"x": 2209,
+						"y": 1677,
+						"w": 375,
+						"h": 454
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 104,
+						"w": 375,
+						"h": 454
+					},
+					"frame": {
+						"x": 2586,
+						"y": 1718,
+						"w": 375,
+						"h": 454
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 104,
+						"w": 382,
+						"h": 454
+					},
+					"frame": {
+						"x": 2963,
+						"y": 1719,
+						"w": 382,
+						"h": 454
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 103,
+						"w": 384,
+						"h": 455
+					},
+					"frame": {
+						"x": 3347,
+						"y": 1730,
+						"w": 384,
+						"h": 455
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_no_weapons_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 178,
+						"y": 41,
+						"w": 361,
+						"h": 472
+					},
+					"frame": {
+						"x": 3733,
+						"y": 1739,
+						"w": 361,
+						"h": 472
+					}
+				},
+				{
+					"filename": "__goblin_02_die_single_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 103,
+						"y": 66,
+						"w": 460,
+						"h": 476
+					},
+					"frame": {
+						"x": 1,
+						"y": 2046,
+						"w": 460,
+						"h": 476
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_double_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 70,
+						"w": 422,
+						"h": 478
+					},
+					"frame": {
+						"x": 463,
+						"y": 2046,
+						"w": 422,
+						"h": 478
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_no_weapons_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 172,
+						"y": 70,
+						"w": 345,
+						"h": 478
+					},
+					"frame": {
+						"x": 887,
+						"y": 2106,
+						"w": 345,
+						"h": 478
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_single_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 70,
+						"w": 422,
+						"h": 478
+					},
+					"frame": {
+						"x": 1234,
+						"y": 2115,
+						"w": 422,
+						"h": 478
+					}
+				},
+				{
+					"filename": "__goblin_02_no_weapon_attack_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 223,
+						"y": 74,
+						"w": 406,
+						"h": 479
+					},
+					"frame": {
+						"x": 1658,
+						"y": 2129,
+						"w": 406,
+						"h": 479
+					}
+				},
+				{
+					"filename": "__goblin_02_no_weapon_attack_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 227,
+						"y": 74,
+						"w": 397,
+						"h": 479
+					},
+					"frame": {
+						"x": 2066,
+						"y": 2133,
+						"w": 397,
+						"h": 479
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 171,
+						"y": 78,
+						"w": 396,
+						"h": 480
+					},
+					"frame": {
+						"x": 2465,
+						"y": 2174,
+						"w": 396,
+						"h": 480
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 171,
+						"y": 78,
+						"w": 409,
+						"h": 480
+					},
+					"frame": {
+						"x": 2863,
+						"y": 2175,
+						"w": 409,
+						"h": 480
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 171,
+						"y": 77,
+						"w": 403,
+						"h": 481
+					},
+					"frame": {
+						"x": 3274,
+						"y": 2187,
+						"w": 403,
+						"h": 481
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 172,
+						"y": 74,
+						"w": 408,
+						"h": 484
+					},
+					"frame": {
+						"x": 3679,
+						"y": 2213,
+						"w": 408,
+						"h": 484
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 170,
+						"y": 70,
+						"w": 444,
+						"h": 488
+					},
+					"frame": {
+						"x": 1,
+						"y": 2524,
+						"w": 444,
+						"h": 488
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_double_weapon_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 154,
+						"y": 57,
+						"w": 375,
+						"h": 491
+					},
+					"frame": {
+						"x": 447,
+						"y": 2526,
+						"w": 375,
+						"h": 491
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_no_weapons_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 177,
+						"y": 57,
+						"w": 352,
+						"h": 491
+					},
+					"frame": {
+						"x": 824,
+						"y": 2586,
+						"w": 352,
+						"h": 491
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 70,
+						"w": 468,
+						"h": 488
+					},
+					"frame": {
+						"x": 1178,
+						"y": 2595,
+						"w": 468,
+						"h": 488
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_single_weapon_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 154,
+						"y": 57,
+						"w": 375,
+						"h": 491
+					},
+					"frame": {
+						"x": 1648,
+						"y": 2610,
+						"w": 375,
+						"h": 491
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_no_weapons_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 62,
+						"w": 424,
+						"h": 496
+					},
+					"frame": {
+						"x": 2025,
+						"y": 2614,
+						"w": 424,
+						"h": 496
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_no_weapons_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 182,
+						"y": 62,
+						"w": 424,
+						"h": 496
+					},
+					"frame": {
+						"x": 2025,
+						"y": 2614,
+						"w": 424,
+						"h": 496
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 69,
+						"w": 468,
+						"h": 489
+					},
+					"frame": {
+						"x": 2451,
+						"y": 2657,
+						"w": 468,
+						"h": 489
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_no_weapons_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 180,
+						"y": 62,
+						"w": 425,
+						"h": 496
+					},
+					"frame": {
+						"x": 2921,
+						"y": 2670,
+						"w": 425,
+						"h": 496
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 143,
+						"y": 57,
+						"w": 439,
+						"h": 502
+					},
+					"frame": {
+						"x": 3348,
+						"y": 2699,
+						"w": 439,
+						"h": 502
+					}
+				}
+			]
+		},
+		{
+			"image": "goblin2-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 4083,
+				"h": 3231
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "__goblin_02_sheild_defend_no_weapons_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 163,
+						"w": 450,
+						"h": 395
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 450,
+						"h": 395
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_no_weapons_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 163,
+						"w": 450,
+						"h": 395
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 450,
+						"h": 395
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_no_weapons_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 163,
+						"w": 450,
+						"h": 395
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 450,
+						"h": 395
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 161,
+						"w": 448,
+						"h": 397
+					},
+					"frame": {
+						"x": 453,
+						"y": 1,
+						"w": 448,
+						"h": 397
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_no_weapons_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 161,
+						"w": 448,
+						"h": 397
+					},
+					"frame": {
+						"x": 903,
+						"y": 1,
+						"w": 448,
+						"h": 397
+					}
+				},
+				{
+					"filename": "__goblin_02_double_weapon_attack_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 167,
+						"w": 464,
+						"h": 400
+					},
+					"frame": {
+						"x": 1353,
+						"y": 1,
+						"w": 464,
+						"h": 400
+					}
+				},
+				{
+					"filename": "__goblin_02_double_weapon_attack_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 160,
+						"w": 480,
+						"h": 400
+					},
+					"frame": {
+						"x": 1819,
+						"y": 1,
+						"w": 480,
+						"h": 400
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_no_weapons_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 173,
+						"y": 29,
+						"w": 364,
+						"h": 403
+					},
+					"frame": {
+						"x": 2301,
+						"y": 1,
+						"w": 364,
+						"h": 403
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_single_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 29,
+						"w": 387,
+						"h": 403
+					},
+					"frame": {
+						"x": 2667,
+						"y": 1,
+						"w": 387,
+						"h": 403
+					}
+				},
+				{
+					"filename": "__goblin_02_defend_double_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 194,
+						"y": 154,
+						"w": 370,
+						"h": 404
+					},
+					"frame": {
+						"x": 3056,
+						"y": 1,
+						"w": 370,
+						"h": 404
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_double_weapon_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 138,
+						"y": 26,
+						"w": 398,
+						"h": 414
+					},
+					"frame": {
+						"x": 3428,
+						"y": 1,
+						"w": 398,
+						"h": 414
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_no_weapons_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 126,
+						"w": 376,
+						"h": 428
+					},
+					"frame": {
+						"x": 1,
+						"y": 398,
+						"w": 376,
+						"h": 428
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_single_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 126,
+						"w": 376,
+						"h": 428
+					},
+					"frame": {
+						"x": 379,
+						"y": 400,
+						"w": 376,
+						"h": 428
+					}
+				},
+				{
+					"filename": "__goblin_02_run_no_weapons_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 116,
+						"w": 415,
+						"h": 429
+					},
+					"frame": {
+						"x": 757,
+						"y": 400,
+						"w": 415,
+						"h": 429
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_double_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 124,
+						"w": 385,
+						"h": 429
+					},
+					"frame": {
+						"x": 1174,
+						"y": 403,
+						"w": 385,
+						"h": 429
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_no_weapons_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 124,
+						"w": 372,
+						"h": 429
+					},
+					"frame": {
+						"x": 1561,
+						"y": 403,
+						"w": 372,
+						"h": 429
+					}
+				},
+				{
+					"filename": "__goblin_02_defend_double_weapon_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 128,
+						"w": 407,
+						"h": 430
+					},
+					"frame": {
+						"x": 1935,
+						"y": 406,
+						"w": 407,
+						"h": 430
+					}
+				},
+				{
+					"filename": "__goblin_02_run_double_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 117,
+						"w": 408,
+						"h": 430
+					},
+					"frame": {
+						"x": 2344,
+						"y": 406,
+						"w": 408,
+						"h": 430
+					}
+				},
+				{
+					"filename": "__goblin_02_run_no_weapons_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 117,
+						"w": 408,
+						"h": 430
+					},
+					"frame": {
+						"x": 2754,
+						"y": 407,
+						"w": 408,
+						"h": 430
+					}
+				},
+				{
+					"filename": "__goblin_02_run_single_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 117,
+						"w": 408,
+						"h": 430
+					},
+					"frame": {
+						"x": 3164,
+						"y": 417,
+						"w": 408,
+						"h": 430
+					}
+				},
+				{
+					"filename": "__goblin_02_no_weapon_attack_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 119,
+						"w": 400,
+						"h": 436
+					},
+					"frame": {
+						"x": 3574,
+						"y": 417,
+						"w": 400,
+						"h": 436
+					}
+				},
+				{
+					"filename": "__goblin_02_no_weapon_attack_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 1,
+						"y": 828,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 379,
+						"y": 830,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_no_weapons_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 757,
+						"y": 831,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_single_weapon_attack_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 1135,
+						"y": 834,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 1135,
+						"y": 834,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_no_weapons_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 441
+					},
+					"frame": {
+						"x": 1513,
+						"y": 834,
+						"w": 376,
+						"h": 441
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_double_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 112,
+						"w": 374,
+						"h": 442
+					},
+					"frame": {
+						"x": 1891,
+						"y": 838,
+						"w": 374,
+						"h": 442
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_no_weapons_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 112,
+						"w": 374,
+						"h": 442
+					},
+					"frame": {
+						"x": 2267,
+						"y": 838,
+						"w": 374,
+						"h": 442
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_single_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 112,
+						"w": 374,
+						"h": 442
+					},
+					"frame": {
+						"x": 2643,
+						"y": 839,
+						"w": 374,
+						"h": 442
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 115,
+						"w": 375,
+						"h": 443
+					},
+					"frame": {
+						"x": 3019,
+						"y": 849,
+						"w": 375,
+						"h": 443
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 115,
+						"w": 375,
+						"h": 443
+					},
+					"frame": {
+						"x": 3396,
+						"y": 855,
+						"w": 375,
+						"h": 443
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_no_weapons_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 225,
+						"y": 113,
+						"w": 309,
+						"h": 445
+					},
+					"frame": {
+						"x": 3773,
+						"y": 855,
+						"w": 309,
+						"h": 445
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 112,
+						"w": 376,
+						"h": 446
+					},
+					"frame": {
+						"x": 1,
+						"y": 1271,
+						"w": 376,
+						"h": 446
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 112,
+						"w": 376,
+						"h": 446
+					},
+					"frame": {
+						"x": 379,
+						"y": 1273,
+						"w": 376,
+						"h": 446
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_017",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 112,
+						"w": 376,
+						"h": 446
+					},
+					"frame": {
+						"x": 757,
+						"y": 1274,
+						"w": 376,
+						"h": 446
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_double_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 165,
+						"y": 111,
+						"w": 369,
+						"h": 446
+					},
+					"frame": {
+						"x": 1135,
+						"y": 1277,
+						"w": 369,
+						"h": 446
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_single_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 165,
+						"y": 111,
+						"w": 369,
+						"h": 446
+					},
+					"frame": {
+						"x": 1506,
+						"y": 1277,
+						"w": 369,
+						"h": 446
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 111,
+						"w": 375,
+						"h": 447
+					},
+					"frame": {
+						"x": 1877,
+						"y": 1282,
+						"w": 375,
+						"h": 447
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 111,
+						"w": 375,
+						"h": 447
+					},
+					"frame": {
+						"x": 2254,
+						"y": 1282,
+						"w": 375,
+						"h": 447
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 111,
+						"w": 375,
+						"h": 447
+					},
+					"frame": {
+						"x": 2631,
+						"y": 1283,
+						"w": 375,
+						"h": 447
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 111,
+						"w": 375,
+						"h": 447
+					},
+					"frame": {
+						"x": 3008,
+						"y": 1294,
+						"w": 375,
+						"h": 447
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_016",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 111,
+						"w": 375,
+						"h": 447
+					},
+					"frame": {
+						"x": 3385,
+						"y": 1300,
+						"w": 375,
+						"h": 447
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 184,
+						"y": 95,
+						"w": 304,
+						"h": 460
+					},
+					"frame": {
+						"x": 3762,
+						"y": 1302,
+						"w": 304,
+						"h": 460
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 103,
+						"w": 374,
+						"h": 455
+					},
+					"frame": {
+						"x": 1,
+						"y": 1719,
+						"w": 374,
+						"h": 455
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 103,
+						"w": 374,
+						"h": 455
+					},
+					"frame": {
+						"x": 377,
+						"y": 1721,
+						"w": 374,
+						"h": 455
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_no_weapons_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 100,
+						"w": 373,
+						"h": 455
+					},
+					"frame": {
+						"x": 753,
+						"y": 1722,
+						"w": 373,
+						"h": 455
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 104,
+						"w": 382,
+						"h": 454
+					},
+					"frame": {
+						"x": 1128,
+						"y": 1725,
+						"w": 382,
+						"h": 454
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 103,
+						"w": 383,
+						"h": 455
+					},
+					"frame": {
+						"x": 1512,
+						"y": 1731,
+						"w": 383,
+						"h": 455
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 103,
+						"w": 384,
+						"h": 455
+					},
+					"frame": {
+						"x": 1897,
+						"y": 1731,
+						"w": 384,
+						"h": 455
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 103,
+						"w": 383,
+						"h": 455
+					},
+					"frame": {
+						"x": 2283,
+						"y": 1732,
+						"w": 383,
+						"h": 455
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_double_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 100,
+						"w": 388,
+						"h": 455
+					},
+					"frame": {
+						"x": 2668,
+						"y": 1743,
+						"w": 388,
+						"h": 455
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_single_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 100,
+						"w": 388,
+						"h": 455
+					},
+					"frame": {
+						"x": 3058,
+						"y": 1749,
+						"w": 388,
+						"h": 455
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_single_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 100,
+						"w": 454,
+						"h": 458
+					},
+					"frame": {
+						"x": 3448,
+						"y": 1764,
+						"w": 454,
+						"h": 458
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 78,
+						"w": 426,
+						"h": 480
+					},
+					"frame": {
+						"x": 1,
+						"y": 2178,
+						"w": 426,
+						"h": 480
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 78,
+						"w": 439,
+						"h": 480
+					},
+					"frame": {
+						"x": 429,
+						"y": 2179,
+						"w": 439,
+						"h": 480
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 143,
+						"y": 77,
+						"w": 439,
+						"h": 481
+					},
+					"frame": {
+						"x": 870,
+						"y": 2181,
+						"w": 439,
+						"h": 481
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 171,
+						"y": 77,
+						"w": 411,
+						"h": 481
+					},
+					"frame": {
+						"x": 1311,
+						"y": 2188,
+						"w": 411,
+						"h": 481
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 171,
+						"y": 77,
+						"w": 409,
+						"h": 481
+					},
+					"frame": {
+						"x": 1724,
+						"y": 2188,
+						"w": 409,
+						"h": 481
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 77,
+						"w": 432,
+						"h": 481
+					},
+					"frame": {
+						"x": 2135,
+						"y": 2189,
+						"w": 432,
+						"h": 481
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 143,
+						"y": 77,
+						"w": 439,
+						"h": 481
+					},
+					"frame": {
+						"x": 2569,
+						"y": 2200,
+						"w": 439,
+						"h": 481
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 78,
+						"w": 426,
+						"h": 482
+					},
+					"frame": {
+						"x": 3010,
+						"y": 2206,
+						"w": 426,
+						"h": 482
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 172,
+						"y": 73,
+						"w": 395,
+						"h": 485
+					},
+					"frame": {
+						"x": 3438,
+						"y": 2224,
+						"w": 395,
+						"h": 485
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 170,
+						"y": 69,
+						"w": 445,
+						"h": 489
+					},
+					"frame": {
+						"x": 1,
+						"y": 2661,
+						"w": 445,
+						"h": 489
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 69,
+						"w": 468,
+						"h": 489
+					},
+					"frame": {
+						"x": 448,
+						"y": 2664,
+						"w": 468,
+						"h": 489
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_single_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 193,
+						"y": 62,
+						"w": 413,
+						"h": 496
+					},
+					"frame": {
+						"x": 918,
+						"y": 2671,
+						"w": 413,
+						"h": 496
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_single_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 193,
+						"y": 62,
+						"w": 413,
+						"h": 496
+					},
+					"frame": {
+						"x": 918,
+						"y": 2671,
+						"w": 413,
+						"h": 496
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_single_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 190,
+						"y": 62,
+						"w": 415,
+						"h": 496
+					},
+					"frame": {
+						"x": 1333,
+						"y": 2671,
+						"w": 415,
+						"h": 496
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_double_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 174,
+						"y": 62,
+						"w": 431,
+						"h": 498
+					},
+					"frame": {
+						"x": 1750,
+						"y": 2672,
+						"w": 431,
+						"h": 498
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 144,
+						"y": 59,
+						"w": 442,
+						"h": 499
+					},
+					"frame": {
+						"x": 2183,
+						"y": 2683,
+						"w": 442,
+						"h": 499
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 171,
+						"y": 59,
+						"w": 415,
+						"h": 499
+					},
+					"frame": {
+						"x": 2627,
+						"y": 2690,
+						"w": 415,
+						"h": 499
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 170,
+						"y": 39,
+						"w": 421,
+						"h": 519
+					},
+					"frame": {
+						"x": 3044,
+						"y": 2711,
+						"w": 421,
+						"h": 519
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 39,
+						"w": 446,
+						"h": 519
+					},
+					"frame": {
+						"x": 3467,
+						"y": 2711,
+						"w": 446,
+						"h": 519
+					}
+				}
+			]
+		},
+		{
+			"image": "goblin2-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 4034,
+				"h": 3226
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "__goblin_02_jump_no_weapons_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 173,
+						"y": 26,
+						"w": 363,
+						"h": 414
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 363,
+						"h": 414
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_single_weapon_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 138,
+						"y": 26,
+						"w": 398,
+						"h": 414
+					},
+					"frame": {
+						"x": 366,
+						"y": 1,
+						"w": 398,
+						"h": 414
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_double_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 53,
+						"w": 404,
+						"h": 415
+					},
+					"frame": {
+						"x": 766,
+						"y": 1,
+						"w": 404,
+						"h": 415
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_no_weapons_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 176,
+						"y": 53,
+						"w": 357,
+						"h": 415
+					},
+					"frame": {
+						"x": 1172,
+						"y": 1,
+						"w": 357,
+						"h": 415
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_single_weapon_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 53,
+						"w": 404,
+						"h": 415
+					},
+					"frame": {
+						"x": 1531,
+						"y": 1,
+						"w": 404,
+						"h": 415
+					}
+				},
+				{
+					"filename": "__goblin_02_defend_double_weapon_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 140,
+						"w": 392,
+						"h": 418
+					},
+					"frame": {
+						"x": 1937,
+						"y": 1,
+						"w": 392,
+						"h": 418
+					}
+				},
+				{
+					"filename": "__goblin_02_double_weapon_attack_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 127,
+						"w": 400,
+						"h": 418
+					},
+					"frame": {
+						"x": 2331,
+						"y": 1,
+						"w": 400,
+						"h": 418
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 136,
+						"w": 429,
+						"h": 419
+					},
+					"frame": {
+						"x": 2733,
+						"y": 1,
+						"w": 429,
+						"h": 419
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_no_weapons_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 136,
+						"w": 429,
+						"h": 419
+					},
+					"frame": {
+						"x": 3164,
+						"y": 1,
+						"w": 429,
+						"h": 419
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 135,
+						"w": 427,
+						"h": 420
+					},
+					"frame": {
+						"x": 3595,
+						"y": 1,
+						"w": 427,
+						"h": 420
+					}
+				},
+				{
+					"filename": "__goblin_02_no_weapon_attack_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 119,
+						"w": 396,
+						"h": 436
+					},
+					"frame": {
+						"x": 1,
+						"y": 417,
+						"w": 396,
+						"h": 436
+					}
+				},
+				{
+					"filename": "__goblin_02_run_double_weapon_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 116,
+						"w": 377,
+						"h": 436
+					},
+					"frame": {
+						"x": 399,
+						"y": 418,
+						"w": 377,
+						"h": 436
+					}
+				},
+				{
+					"filename": "__goblin_02_run_no_weapons_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 116,
+						"w": 377,
+						"h": 436
+					},
+					"frame": {
+						"x": 778,
+						"y": 418,
+						"w": 377,
+						"h": 436
+					}
+				},
+				{
+					"filename": "__goblin_02_run_single_weapon_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 116,
+						"w": 377,
+						"h": 436
+					},
+					"frame": {
+						"x": 1157,
+						"y": 418,
+						"w": 377,
+						"h": 436
+					}
+				},
+				{
+					"filename": "__goblin_02_run_double_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 116,
+						"w": 377,
+						"h": 437
+					},
+					"frame": {
+						"x": 1536,
+						"y": 418,
+						"w": 377,
+						"h": 437
+					}
+				},
+				{
+					"filename": "__goblin_02_single_weapon_attack_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 117,
+						"w": 451,
+						"h": 436
+					},
+					"frame": {
+						"x": 1915,
+						"y": 421,
+						"w": 451,
+						"h": 436
+					}
+				},
+				{
+					"filename": "__goblin_02_single_weapon_attack_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 117,
+						"w": 445,
+						"h": 436
+					},
+					"frame": {
+						"x": 2368,
+						"y": 422,
+						"w": 445,
+						"h": 436
+					}
+				},
+				{
+					"filename": "__goblin_02_run_no_weapons_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 116,
+						"w": 377,
+						"h": 437
+					},
+					"frame": {
+						"x": 2815,
+						"y": 422,
+						"w": 377,
+						"h": 437
+					}
+				},
+				{
+					"filename": "__goblin_02_run_single_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 116,
+						"w": 377,
+						"h": 437
+					},
+					"frame": {
+						"x": 3194,
+						"y": 422,
+						"w": 377,
+						"h": 437
+					}
+				},
+				{
+					"filename": "__goblin_02_no_weapon_attack_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 120,
+						"w": 380,
+						"h": 438
+					},
+					"frame": {
+						"x": 3573,
+						"y": 423,
+						"w": 380,
+						"h": 438
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 115,
+						"w": 375,
+						"h": 443
+					},
+					"frame": {
+						"x": 1,
+						"y": 855,
+						"w": 375,
+						"h": 443
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 115,
+						"w": 375,
+						"h": 443
+					},
+					"frame": {
+						"x": 378,
+						"y": 856,
+						"w": 375,
+						"h": 443
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 115,
+						"w": 375,
+						"h": 443
+					},
+					"frame": {
+						"x": 755,
+						"y": 856,
+						"w": 375,
+						"h": 443
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_019",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 115,
+						"w": 375,
+						"h": 443
+					},
+					"frame": {
+						"x": 1132,
+						"y": 856,
+						"w": 375,
+						"h": 443
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_double_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 115,
+						"w": 377,
+						"h": 443
+					},
+					"frame": {
+						"x": 1509,
+						"y": 857,
+						"w": 377,
+						"h": 443
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_no_weapons_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 115,
+						"w": 377,
+						"h": 443
+					},
+					"frame": {
+						"x": 1888,
+						"y": 859,
+						"w": 377,
+						"h": 443
+					}
+				},
+				{
+					"filename": "__goblin_02_walk_single_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 115,
+						"w": 377,
+						"h": 443
+					},
+					"frame": {
+						"x": 2267,
+						"y": 860,
+						"w": 377,
+						"h": 443
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 114,
+						"w": 375,
+						"h": 444
+					},
+					"frame": {
+						"x": 2646,
+						"y": 861,
+						"w": 375,
+						"h": 444
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 114,
+						"w": 375,
+						"h": 444
+					},
+					"frame": {
+						"x": 3023,
+						"y": 861,
+						"w": 375,
+						"h": 444
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 114,
+						"w": 375,
+						"h": 444
+					},
+					"frame": {
+						"x": 3400,
+						"y": 863,
+						"w": 375,
+						"h": 444
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_no_weapons_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 231,
+						"y": 111,
+						"w": 303,
+						"h": 446
+					},
+					"frame": {
+						"x": 1,
+						"y": 1300,
+						"w": 303,
+						"h": 446
+					}
+				},
+				{
+					"filename": "__goblin_02_single_weapon_attack_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 112,
+						"w": 373,
+						"h": 447
+					},
+					"frame": {
+						"x": 306,
+						"y": 1301,
+						"w": 373,
+						"h": 447
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 109,
+						"w": 376,
+						"h": 449
+					},
+					"frame": {
+						"x": 681,
+						"y": 1301,
+						"w": 376,
+						"h": 449
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 109,
+						"w": 376,
+						"h": 449
+					},
+					"frame": {
+						"x": 1059,
+						"y": 1301,
+						"w": 376,
+						"h": 449
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 109,
+						"w": 375,
+						"h": 449
+					},
+					"frame": {
+						"x": 1437,
+						"y": 1302,
+						"w": 375,
+						"h": 449
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 109,
+						"w": 375,
+						"h": 449
+					},
+					"frame": {
+						"x": 1814,
+						"y": 1304,
+						"w": 375,
+						"h": 449
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 109,
+						"w": 376,
+						"h": 449
+					},
+					"frame": {
+						"x": 2191,
+						"y": 1305,
+						"w": 376,
+						"h": 449
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 109,
+						"w": 376,
+						"h": 449
+					},
+					"frame": {
+						"x": 2569,
+						"y": 1307,
+						"w": 376,
+						"h": 449
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 108,
+						"w": 377,
+						"h": 450
+					},
+					"frame": {
+						"x": 2947,
+						"y": 1307,
+						"w": 377,
+						"h": 450
+					}
+				},
+				{
+					"filename": "__goblin_02_single_weapon_attack_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 108,
+						"w": 454,
+						"h": 449
+					},
+					"frame": {
+						"x": 3326,
+						"y": 1309,
+						"w": 454,
+						"h": 449
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 108,
+						"w": 377,
+						"h": 450
+					},
+					"frame": {
+						"x": 1,
+						"y": 1750,
+						"w": 377,
+						"h": 450
+					}
+				},
+				{
+					"filename": "__goblin_02_die_double_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 59,
+						"w": 394,
+						"h": 457
+					},
+					"frame": {
+						"x": 380,
+						"y": 1752,
+						"w": 394,
+						"h": 457
+					}
+				},
+				{
+					"filename": "__goblin_02_double_weapon_attack_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 194,
+						"y": 101,
+						"w": 406,
+						"h": 457
+					},
+					"frame": {
+						"x": 776,
+						"y": 1752,
+						"w": 406,
+						"h": 457
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 101,
+						"w": 386,
+						"h": 457
+					},
+					"frame": {
+						"x": 1184,
+						"y": 1753,
+						"w": 386,
+						"h": 457
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 101,
+						"w": 375,
+						"h": 457
+					},
+					"frame": {
+						"x": 1572,
+						"y": 1755,
+						"w": 375,
+						"h": 457
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 101,
+						"w": 386,
+						"h": 457
+					},
+					"frame": {
+						"x": 1949,
+						"y": 1756,
+						"w": 386,
+						"h": 457
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_double_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 100,
+						"w": 449,
+						"h": 458
+					},
+					"frame": {
+						"x": 2337,
+						"y": 1758,
+						"w": 449,
+						"h": 458
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_double_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 100,
+						"w": 449,
+						"h": 458
+					},
+					"frame": {
+						"x": 2788,
+						"y": 1759,
+						"w": 449,
+						"h": 458
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_no_weapons_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 175,
+						"y": 100,
+						"w": 388,
+						"h": 458
+					},
+					"frame": {
+						"x": 3239,
+						"y": 1760,
+						"w": 388,
+						"h": 458
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_no_weapons_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 159,
+						"y": 100,
+						"w": 404,
+						"h": 458
+					},
+					"frame": {
+						"x": 3629,
+						"y": 1760,
+						"w": 404,
+						"h": 458
+					}
+				},
+				{
+					"filename": "__goblin_02_single_weapon_attack_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 204,
+						"y": 97,
+						"w": 425,
+						"h": 461
+					},
+					"frame": {
+						"x": 1,
+						"y": 2211,
+						"w": 425,
+						"h": 461
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 77,
+						"w": 438,
+						"h": 481
+					},
+					"frame": {
+						"x": 428,
+						"y": 2211,
+						"w": 438,
+						"h": 481
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 77,
+						"w": 432,
+						"h": 482
+					},
+					"frame": {
+						"x": 868,
+						"y": 2212,
+						"w": 432,
+						"h": 482
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 76,
+						"w": 447,
+						"h": 482
+					},
+					"frame": {
+						"x": 1302,
+						"y": 2214,
+						"w": 447,
+						"h": 482
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 142,
+						"y": 77,
+						"w": 438,
+						"h": 482
+					},
+					"frame": {
+						"x": 1751,
+						"y": 2215,
+						"w": 438,
+						"h": 482
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 78,
+						"w": 439,
+						"h": 482
+					},
+					"frame": {
+						"x": 2191,
+						"y": 2218,
+						"w": 439,
+						"h": 482
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 170,
+						"y": 76,
+						"w": 422,
+						"h": 482
+					},
+					"frame": {
+						"x": 2632,
+						"y": 2219,
+						"w": 422,
+						"h": 482
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_010",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 76,
+						"w": 447,
+						"h": 482
+					},
+					"frame": {
+						"x": 3056,
+						"y": 2220,
+						"w": 447,
+						"h": 482
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 74,
+						"w": 440,
+						"h": 484
+					},
+					"frame": {
+						"x": 3505,
+						"y": 2220,
+						"w": 440,
+						"h": 484
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 171,
+						"y": 57,
+						"w": 411,
+						"h": 501
+					},
+					"frame": {
+						"x": 1,
+						"y": 2674,
+						"w": 411,
+						"h": 501
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 72,
+						"w": 449,
+						"h": 486
+					},
+					"frame": {
+						"x": 414,
+						"y": 2694,
+						"w": 449,
+						"h": 486
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_double_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 176,
+						"y": 62,
+						"w": 430,
+						"h": 499
+					},
+					"frame": {
+						"x": 865,
+						"y": 2696,
+						"w": 430,
+						"h": 499
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_double_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 176,
+						"y": 62,
+						"w": 430,
+						"h": 499
+					},
+					"frame": {
+						"x": 865,
+						"y": 2696,
+						"w": 430,
+						"h": 499
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 144,
+						"y": 59,
+						"w": 442,
+						"h": 499
+					},
+					"frame": {
+						"x": 1297,
+						"y": 2698,
+						"w": 442,
+						"h": 499
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_012",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 143,
+						"y": 57,
+						"w": 439,
+						"h": 501
+					},
+					"frame": {
+						"x": 1741,
+						"y": 2699,
+						"w": 439,
+						"h": 501
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 172,
+						"y": 49,
+						"w": 408,
+						"h": 509
+					},
+					"frame": {
+						"x": 2182,
+						"y": 2702,
+						"w": 408,
+						"h": 509
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 49,
+						"w": 440,
+						"h": 509
+					},
+					"frame": {
+						"x": 2592,
+						"y": 2703,
+						"w": 440,
+						"h": 509
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 49,
+						"w": 440,
+						"h": 513
+					},
+					"frame": {
+						"x": 3034,
+						"y": 2704,
+						"w": 440,
+						"h": 513
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 39,
+						"w": 446,
+						"h": 519
+					},
+					"frame": {
+						"x": 3476,
+						"y": 2706,
+						"w": 446,
+						"h": 519
+					}
+				}
+			]
+		},
+		{
+			"image": "goblin2-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 4089,
+				"h": 2737
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "__goblin_02_throw_no_weapons_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 135,
+						"w": 427,
+						"h": 420
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 427,
+						"h": 420
+					}
+				},
+				{
+					"filename": "__goblin_02_die_no_weapons_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 192,
+						"y": 94,
+						"w": 410,
+						"h": 422
+					},
+					"frame": {
+						"x": 430,
+						"y": 1,
+						"w": 410,
+						"h": 422
+					}
+				},
+				{
+					"filename": "__goblin_02_die_single_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 160,
+						"y": 94,
+						"w": 442,
+						"h": 422
+					},
+					"frame": {
+						"x": 842,
+						"y": 1,
+						"w": 442,
+						"h": 422
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 136,
+						"w": 410,
+						"h": 422
+					},
+					"frame": {
+						"x": 1286,
+						"y": 1,
+						"w": 410,
+						"h": 422
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_no_weapons_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 136,
+						"w": 410,
+						"h": 422
+					},
+					"frame": {
+						"x": 1698,
+						"y": 1,
+						"w": 410,
+						"h": 422
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 135,
+						"w": 407,
+						"h": 423
+					},
+					"frame": {
+						"x": 2110,
+						"y": 1,
+						"w": 407,
+						"h": 423
+					}
+				},
+				{
+					"filename": "__goblin_02_sheild_defend_no_weapons_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 135,
+						"w": 407,
+						"h": 423
+					},
+					"frame": {
+						"x": 2519,
+						"y": 1,
+						"w": 407,
+						"h": 423
+					}
+				},
+				{
+					"filename": "__goblin_02_defend_double_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 134,
+						"w": 402,
+						"h": 424
+					},
+					"frame": {
+						"x": 2928,
+						"y": 1,
+						"w": 402,
+						"h": 424
+					}
+				},
+				{
+					"filename": "__goblin_02_run_double_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 129,
+						"w": 377,
+						"h": 425
+					},
+					"frame": {
+						"x": 3332,
+						"y": 1,
+						"w": 377,
+						"h": 425
+					}
+				},
+				{
+					"filename": "__goblin_02_run_no_weapons_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 129,
+						"w": 377,
+						"h": 425
+					},
+					"frame": {
+						"x": 3711,
+						"y": 1,
+						"w": 377,
+						"h": 425
+					}
+				},
+				{
+					"filename": "__goblin_02_die_double_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 439
+					},
+					"frame": {
+						"x": 1,
+						"y": 423,
+						"w": 376,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_die_no_weapons_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 439
+					},
+					"frame": {
+						"x": 379,
+						"y": 425,
+						"w": 376,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_die_single_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 439
+					},
+					"frame": {
+						"x": 757,
+						"y": 425,
+						"w": 376,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_double_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 439
+					},
+					"frame": {
+						"x": 1135,
+						"y": 425,
+						"w": 376,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_no_weapons_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 439
+					},
+					"frame": {
+						"x": 1513,
+						"y": 425,
+						"w": 376,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_single_weapon_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 117,
+						"w": 376,
+						"h": 439
+					},
+					"frame": {
+						"x": 1891,
+						"y": 426,
+						"w": 376,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_no_weapon_attack_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 118,
+						"w": 388,
+						"h": 439
+					},
+					"frame": {
+						"x": 2269,
+						"y": 426,
+						"w": 388,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_no_weapon_attack_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 110,
+						"y": 118,
+						"w": 374,
+						"h": 439
+					},
+					"frame": {
+						"x": 2659,
+						"y": 427,
+						"w": 374,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_run_double_weapon_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 105,
+						"w": 393,
+						"h": 439
+					},
+					"frame": {
+						"x": 3035,
+						"y": 428,
+						"w": 393,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_run_no_weapons_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 105,
+						"w": 393,
+						"h": 439
+					},
+					"frame": {
+						"x": 3430,
+						"y": 428,
+						"w": 393,
+						"h": 439
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 114,
+						"w": 375,
+						"h": 444
+					},
+					"frame": {
+						"x": 1,
+						"y": 864,
+						"w": 375,
+						"h": 444
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 114,
+						"w": 375,
+						"h": 444
+					},
+					"frame": {
+						"x": 378,
+						"y": 866,
+						"w": 375,
+						"h": 444
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_018",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 114,
+						"w": 375,
+						"h": 444
+					},
+					"frame": {
+						"x": 755,
+						"y": 866,
+						"w": 375,
+						"h": 444
+					}
+				},
+				{
+					"filename": "__goblin_02_run_double_weapon_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 105,
+						"w": 395,
+						"h": 444
+					},
+					"frame": {
+						"x": 1132,
+						"y": 866,
+						"w": 395,
+						"h": 444
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_double_weapon_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 179,
+						"y": 113,
+						"w": 355,
+						"h": 445
+					},
+					"frame": {
+						"x": 1529,
+						"y": 866,
+						"w": 355,
+						"h": 445
+					}
+				},
+				{
+					"filename": "__goblin_02_run_no_weapons_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 105,
+						"w": 377,
+						"h": 444
+					},
+					"frame": {
+						"x": 1886,
+						"y": 867,
+						"w": 377,
+						"h": 444
+					}
+				},
+				{
+					"filename": "__goblin_02_run_single_weapon_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 105,
+						"w": 383,
+						"h": 444
+					},
+					"frame": {
+						"x": 2265,
+						"y": 867,
+						"w": 383,
+						"h": 444
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_single_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 167,
+						"y": 112,
+						"w": 368,
+						"h": 445
+					},
+					"frame": {
+						"x": 2650,
+						"y": 868,
+						"w": 368,
+						"h": 445
+					}
+				},
+				{
+					"filename": "__goblin_02_single_weapon_attack_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 203,
+						"y": 114,
+						"w": 433,
+						"h": 444
+					},
+					"frame": {
+						"x": 3020,
+						"y": 869,
+						"w": 433,
+						"h": 444
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_single_weapon_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 179,
+						"y": 113,
+						"w": 355,
+						"h": 445
+					},
+					"frame": {
+						"x": 3455,
+						"y": 869,
+						"w": 355,
+						"h": 445
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_014",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 108,
+						"w": 375,
+						"h": 450
+					},
+					"frame": {
+						"x": 1,
+						"y": 1310,
+						"w": 375,
+						"h": 450
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 107,
+						"w": 378,
+						"h": 451
+					},
+					"frame": {
+						"x": 378,
+						"y": 1312,
+						"w": 378,
+						"h": 451
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 125,
+						"y": 107,
+						"w": 375,
+						"h": 451
+					},
+					"frame": {
+						"x": 758,
+						"y": 1312,
+						"w": 375,
+						"h": 451
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 107,
+						"w": 378,
+						"h": 451
+					},
+					"frame": {
+						"x": 1135,
+						"y": 1312,
+						"w": 378,
+						"h": 451
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 106,
+						"w": 380,
+						"h": 452
+					},
+					"frame": {
+						"x": 1515,
+						"y": 1313,
+						"w": 380,
+						"h": 452
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_double_weapon_013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 106,
+						"w": 380,
+						"h": 452
+					},
+					"frame": {
+						"x": 1897,
+						"y": 1313,
+						"w": 380,
+						"h": 452
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 106,
+						"w": 375,
+						"h": 452
+					},
+					"frame": {
+						"x": 2279,
+						"y": 1315,
+						"w": 375,
+						"h": 452
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_no_weapons_013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 126,
+						"y": 106,
+						"w": 375,
+						"h": 452
+					},
+					"frame": {
+						"x": 2656,
+						"y": 1315,
+						"w": 375,
+						"h": 452
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 106,
+						"w": 380,
+						"h": 452
+					},
+					"frame": {
+						"x": 3033,
+						"y": 1315,
+						"w": 380,
+						"h": 452
+					}
+				},
+				{
+					"filename": "__goblin_02_idle_single_weapon_013",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 106,
+						"w": 380,
+						"h": 452
+					},
+					"frame": {
+						"x": 3415,
+						"y": 1316,
+						"w": 380,
+						"h": 452
+					}
+				},
+				{
+					"filename": "__goblin_02_hurt_single_weapon_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 100,
+						"w": 455,
+						"h": 458
+					},
+					"frame": {
+						"x": 1,
+						"y": 1765,
+						"w": 455,
+						"h": 458
+					}
+				},
+				{
+					"filename": "__goblin_02_double_weapon_attack_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 98,
+						"w": 444,
+						"h": 465
+					},
+					"frame": {
+						"x": 458,
+						"y": 1765,
+						"w": 444,
+						"h": 465
+					}
+				},
+				{
+					"filename": "__goblin_02_die_double_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 71,
+						"w": 429,
+						"h": 471
+					},
+					"frame": {
+						"x": 904,
+						"y": 1765,
+						"w": 429,
+						"h": 471
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_double_weapon_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 41,
+						"w": 425,
+						"h": 472
+					},
+					"frame": {
+						"x": 1335,
+						"y": 1767,
+						"w": 425,
+						"h": 472
+					}
+				},
+				{
+					"filename": "__goblin_02_jump_single_weapon_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 114,
+						"y": 41,
+						"w": 425,
+						"h": 472
+					},
+					"frame": {
+						"x": 1762,
+						"y": 1767,
+						"w": 425,
+						"h": 472
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 243,
+						"y": 82,
+						"w": 370,
+						"h": 472
+					},
+					"frame": {
+						"x": 2189,
+						"y": 1769,
+						"w": 370,
+						"h": 472
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_no_weapons_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 243,
+						"y": 82,
+						"w": 370,
+						"h": 472
+					},
+					"frame": {
+						"x": 2561,
+						"y": 1769,
+						"w": 370,
+						"h": 472
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 246,
+						"y": 82,
+						"w": 364,
+						"h": 473
+					},
+					"frame": {
+						"x": 2933,
+						"y": 1769,
+						"w": 364,
+						"h": 473
+					}
+				},
+				{
+					"filename": "__goblin_02_throw_no_weapons_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 246,
+						"y": 82,
+						"w": 364,
+						"h": 473
+					},
+					"frame": {
+						"x": 3299,
+						"y": 1770,
+						"w": 364,
+						"h": 473
+					}
+				},
+				{
+					"filename": "__goblin_02_die_no_weapons_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 159,
+						"y": 66,
+						"w": 404,
+						"h": 476
+					},
+					"frame": {
+						"x": 3665,
+						"y": 1770,
+						"w": 404,
+						"h": 476
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 73,
+						"w": 427,
+						"h": 485
+					},
+					"frame": {
+						"x": 1,
+						"y": 2225,
+						"w": 427,
+						"h": 485
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 170,
+						"y": 72,
+						"w": 425,
+						"h": 486
+					},
+					"frame": {
+						"x": 430,
+						"y": 2232,
+						"w": 425,
+						"h": 486
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 72,
+						"w": 449,
+						"h": 486
+					},
+					"frame": {
+						"x": 857,
+						"y": 2238,
+						"w": 449,
+						"h": 486
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 144,
+						"y": 71,
+						"w": 443,
+						"h": 487
+					},
+					"frame": {
+						"x": 1308,
+						"y": 2241,
+						"w": 443,
+						"h": 487
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_no_weapons_011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 171,
+						"y": 71,
+						"w": 416,
+						"h": 487
+					},
+					"frame": {
+						"x": 1753,
+						"y": 2241,
+						"w": 416,
+						"h": 487
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_015",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 74,
+						"w": 440,
+						"h": 487
+					},
+					"frame": {
+						"x": 2171,
+						"y": 2243,
+						"w": 440,
+						"h": 487
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_single_weapon_011",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 144,
+						"y": 71,
+						"w": 443,
+						"h": 487
+					},
+					"frame": {
+						"x": 2613,
+						"y": 2244,
+						"w": 443,
+						"h": 487
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 73,
+						"w": 427,
+						"h": 488
+					},
+					"frame": {
+						"x": 3058,
+						"y": 2245,
+						"w": 427,
+						"h": 488
+					}
+				},
+				{
+					"filename": "__goblin_02_dizzy_double_weapon_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 684,
+						"h": 623
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 70,
+						"w": 468,
+						"h": 488
+					},
+					"frame": {
+						"x": 3487,
+						"y": 2248,
+						"w": 468,
+						"h": 488
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5dc82a653eb3a67c32432dd3d3f3e00e:70c1a70dfd24dc3c5fdaa10f3aabb5ec:fcb81fbcf5993718aaa64a8b0a5ec40c$"
+	}
+}

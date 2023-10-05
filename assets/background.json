@@ -1,0 +1,1007 @@
+{
+	"textures": [
+		{
+			"image": "background.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3302,
+				"h": 3613
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "mountains",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 3300,
+						"h": 1001
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3300,
+						"h": 1001
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 3300,
+						"h": 1001
+					}
+				},
+				{
+					"filename": "hills",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 3300,
+						"h": 912
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3300,
+						"h": 912
+					},
+					"frame": {
+						"x": 1,
+						"y": 1004,
+						"w": 3300,
+						"h": 912
+					}
+				},
+				{
+					"filename": "cloud_04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 3066,
+						"h": 173
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3066,
+						"h": 173
+					},
+					"frame": {
+						"x": 1,
+						"y": 1918,
+						"w": 3066,
+						"h": 173
+					}
+				},
+				{
+					"filename": "sky",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 446,
+						"h": 1308
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 446,
+						"h": 1308
+					},
+					"frame": {
+						"x": 1,
+						"y": 2093,
+						"w": 446,
+						"h": 1308
+					}
+				},
+				{
+					"filename": "cloud_01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1076,
+						"h": 228
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 1074,
+						"h": 228
+					},
+					"frame": {
+						"x": 449,
+						"y": 2093,
+						"w": 1074,
+						"h": 228
+					}
+				},
+				{
+					"filename": "left_edge_trussed",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 483,
+						"h": 647
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 435,
+						"h": 644
+					},
+					"frame": {
+						"x": 449,
+						"y": 2323,
+						"w": 435,
+						"h": 644
+					}
+				},
+				{
+					"filename": "repeating_edge_trussed_01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 483,
+						"h": 647
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 0,
+						"w": 418,
+						"h": 643
+					},
+					"frame": {
+						"x": 449,
+						"y": 2969,
+						"w": 418,
+						"h": 643
+					}
+				},
+				{
+					"filename": "left_edge_untrussed",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 483,
+						"h": 647
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 435,
+						"h": 644
+					},
+					"frame": {
+						"x": 886,
+						"y": 2323,
+						"w": 435,
+						"h": 644
+					}
+				},
+				{
+					"filename": "repeating_edge_trussed_02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 483,
+						"h": 647
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 3,
+						"w": 375,
+						"h": 642
+					},
+					"frame": {
+						"x": 869,
+						"y": 2969,
+						"w": 375,
+						"h": 642
+					}
+				},
+				{
+					"filename": "repeating_edge_untrussed_01",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 483,
+						"h": 647
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 2,
+						"w": 372,
+						"h": 645
+					},
+					"frame": {
+						"x": 1323,
+						"y": 2323,
+						"w": 372,
+						"h": 645
+					}
+				},
+				{
+					"filename": "repeating_edge_untrussed_02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 483,
+						"h": 647
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 3,
+						"w": 371,
+						"h": 644
+					},
+					"frame": {
+						"x": 1697,
+						"y": 2093,
+						"w": 371,
+						"h": 644
+					}
+				},
+				{
+					"filename": "left_edge_trussed_half_height",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 483,
+						"h": 412
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 463,
+						"h": 412
+					},
+					"frame": {
+						"x": 2070,
+						"y": 2093,
+						"w": 463,
+						"h": 412
+					}
+				},
+				{
+					"filename": "truss",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 415,
+						"h": 408
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 415,
+						"h": 408
+					},
+					"frame": {
+						"x": 2535,
+						"y": 2093,
+						"w": 415,
+						"h": 408
+					}
+				},
+				{
+					"filename": "net",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 232,
+						"h": 367
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 232,
+						"h": 367
+					},
+					"frame": {
+						"x": 3069,
+						"y": 1918,
+						"w": 232,
+						"h": 367
+					}
+				},
+				{
+					"filename": "wood_overlay_07",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 418,
+						"h": 404
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 418,
+						"h": 404
+					},
+					"frame": {
+						"x": 1246,
+						"y": 2970,
+						"w": 418,
+						"h": 404
+					}
+				},
+				{
+					"filename": "platform_with_perspective_right_end",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 472,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 5,
+						"w": 472,
+						"h": 249
+					},
+					"frame": {
+						"x": 2070,
+						"y": 2507,
+						"w": 472,
+						"h": 249
+					}
+				},
+				{
+					"filename": "platform_with_perspective_left_end",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 460,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 460,
+						"h": 250
+					},
+					"frame": {
+						"x": 2544,
+						"y": 2503,
+						"w": 460,
+						"h": 250
+					}
+				},
+				{
+					"filename": "wood_overlay_06",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 392,
+						"h": 226
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 392,
+						"h": 226
+					},
+					"frame": {
+						"x": 1246,
+						"y": 3376,
+						"w": 392,
+						"h": 226
+					}
+				},
+				{
+					"filename": "vertical_panel",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 354,
+						"h": 284
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 354,
+						"h": 284
+					},
+					"frame": {
+						"x": 1697,
+						"y": 2739,
+						"w": 354,
+						"h": 284
+					}
+				},
+				{
+					"filename": "repeating_edge_trussed_half_height",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 483,
+						"h": 411
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 0,
+						"w": 398,
+						"h": 411
+					},
+					"frame": {
+						"x": 1666,
+						"y": 3025,
+						"w": 398,
+						"h": 411
+					}
+				},
+				{
+					"filename": "platform_with_perspective_single",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 434,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 434,
+						"h": 244
+					},
+					"frame": {
+						"x": 2053,
+						"y": 2758,
+						"w": 434,
+						"h": 244
+					}
+				},
+				{
+					"filename": "wood_overlay_02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 456,
+						"h": 155
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 456,
+						"h": 155
+					},
+					"frame": {
+						"x": 2066,
+						"y": 3004,
+						"w": 456,
+						"h": 155
+					}
+				},
+				{
+					"filename": "cloud_03",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 615,
+						"h": 120
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 614,
+						"h": 120
+					},
+					"frame": {
+						"x": 2066,
+						"y": 3161,
+						"w": 614,
+						"h": 120
+					}
+				},
+				{
+					"filename": "wood_overlay_05",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 634,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 634,
+						"h": 80
+					},
+					"frame": {
+						"x": 2066,
+						"y": 3283,
+						"w": 634,
+						"h": 80
+					}
+				},
+				{
+					"filename": "wood_top_02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 634,
+						"h": 80
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 634,
+						"h": 80
+					},
+					"frame": {
+						"x": 2066,
+						"y": 3365,
+						"w": 634,
+						"h": 80
+					}
+				},
+				{
+					"filename": "platform_without_perspective_single",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 434,
+						"h": 106
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 434,
+						"h": 106
+					},
+					"frame": {
+						"x": 1,
+						"y": 3403,
+						"w": 434,
+						"h": 106
+					}
+				},
+				{
+					"filename": "wood_overlay_04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 438,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 438,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 3511,
+						"w": 438,
+						"h": 87
+					}
+				},
+				{
+					"filename": "wood_top_01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 438,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 438,
+						"h": 87
+					},
+					"frame": {
+						"x": 1,
+						"y": 3511,
+						"w": 438,
+						"h": 87
+					}
+				},
+				{
+					"filename": "cloud_02",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 615,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 614,
+						"h": 78
+					},
+					"frame": {
+						"x": 2544,
+						"y": 2755,
+						"w": 614,
+						"h": 78
+					}
+				},
+				{
+					"filename": "pole_04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 654,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 654,
+						"h": 29
+					},
+					"frame": {
+						"x": 2489,
+						"y": 2835,
+						"w": 654,
+						"h": 29
+					}
+				},
+				{
+					"filename": "platform_without_perspective_right_end",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 477,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 477,
+						"h": 113
+					},
+					"frame": {
+						"x": 2489,
+						"y": 2866,
+						"w": 477,
+						"h": 113
+					}
+				},
+				{
+					"filename": "platform_without_perspective_left_end",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 460,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 460,
+						"h": 113
+					},
+					"frame": {
+						"x": 2524,
+						"y": 2981,
+						"w": 460,
+						"h": 113
+					}
+				},
+				{
+					"filename": "wood_overlay_01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 360,
+						"h": 124
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 360,
+						"h": 124
+					},
+					"frame": {
+						"x": 1640,
+						"y": 3438,
+						"w": 360,
+						"h": 124
+					}
+				},
+				{
+					"filename": "pole_03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 383,
+						"h": 29
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 383,
+						"h": 29
+					},
+					"frame": {
+						"x": 2524,
+						"y": 3096,
+						"w": 383,
+						"h": 29
+					}
+				},
+				{
+					"filename": "platform_without_perspective_repeating_center",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 127
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 8,
+						"w": 291,
+						"h": 113
+					},
+					"frame": {
+						"x": 2002,
+						"y": 3447,
+						"w": 291,
+						"h": 113
+					}
+				},
+				{
+					"filename": "wood_overlay_03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 160,
+						"h": 374
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 160,
+						"h": 374
+					},
+					"frame": {
+						"x": 2702,
+						"y": 3127,
+						"w": 160,
+						"h": 374
+					}
+				},
+				{
+					"filename": "pole_02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 33,
+						"h": 427
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 33,
+						"h": 427
+					},
+					"frame": {
+						"x": 2864,
+						"y": 3127,
+						"w": 33,
+						"h": 427
+					}
+				},
+				{
+					"filename": "platform_with_perspective_repeating_center",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 291,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 10,
+						"w": 291,
+						"h": 244
+					},
+					"frame": {
+						"x": 2986,
+						"y": 2866,
+						"w": 291,
+						"h": 244
+					}
+				},
+				{
+					"filename": "pole_01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 32,
+						"h": 636
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 32,
+						"h": 636
+					},
+					"frame": {
+						"x": 3006,
+						"y": 2093,
+						"w": 32,
+						"h": 636
+					}
+				},
+				{
+					"filename": "joint_binding_01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 90,
+						"h": 132
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 90,
+						"h": 132
+					},
+					"frame": {
+						"x": 1525,
+						"y": 2093,
+						"w": 90,
+						"h": 132
+					}
+				},
+				{
+					"filename": "ground_stake",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 87
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 87
+					},
+					"frame": {
+						"x": 2295,
+						"y": 3447,
+						"w": 79,
+						"h": 87
+					}
+				},
+				{
+					"filename": "binding_overlay_02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 67,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 67,
+						"h": 76
+					},
+					"frame": {
+						"x": 2295,
+						"y": 3536,
+						"w": 67,
+						"h": 76
+					}
+				},
+				{
+					"filename": "joint_binding_02",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 47,
+						"h": 112
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 47,
+						"h": 112
+					},
+					"frame": {
+						"x": 2952,
+						"y": 2093,
+						"w": 47,
+						"h": 112
+					}
+				},
+				{
+					"filename": "binding_overlay_01",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 69,
+						"h": 63
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 69,
+						"h": 63
+					},
+					"frame": {
+						"x": 1525,
+						"y": 2227,
+						"w": 69,
+						"h": 63
+					}
+				},
+				{
+					"filename": "binding_overlay_04",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 63,
+						"h": 56
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 63,
+						"h": 56
+					},
+					"frame": {
+						"x": 1617,
+						"y": 2093,
+						"w": 63,
+						"h": 56
+					}
+				},
+				{
+					"filename": "binding_overlay_03",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 79,
+						"h": 37
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 79,
+						"h": 37
+					},
+					"frame": {
+						"x": 2376,
+						"y": 3447,
+						"w": 79,
+						"h": 37
+					}
+				},
+				{
+					"filename": "spike",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 38,
+						"h": 545
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 38,
+						"h": 545
+					},
+					"frame": {
+						"x": 3160,
+						"y": 2287,
+						"w": 38,
+						"h": 545
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e2e6b57f717795818380c39d1972e91e:d0057762940edae93ef5c7ef56f40668:2ba65c328dea799e4d80739630892abf$"
+	}
+}

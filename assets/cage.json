@@ -1,0 +1,587 @@
+{
+	"textures": [
+		{
+			"image": "cage-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 3173,
+				"h": 3605
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "__cage_smash_from_top_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 59,
+						"w": 1224,
+						"h": 733
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1224,
+						"h": 733
+					}
+				},
+				{
+					"filename": "__cage_smash_from_top_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 32,
+						"w": 1190,
+						"h": 754
+					},
+					"frame": {
+						"x": 1,
+						"y": 736,
+						"w": 1190,
+						"h": 754
+					}
+				},
+				{
+					"filename": "__cage_smash_from_top_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 75,
+						"w": 1224,
+						"h": 717
+					},
+					"frame": {
+						"x": 1227,
+						"y": 1,
+						"w": 1224,
+						"h": 717
+					}
+				},
+				{
+					"filename": "__cage_smash_from_top_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 115,
+						"y": 129,
+						"w": 1005,
+						"h": 657
+					},
+					"frame": {
+						"x": 1,
+						"y": 1492,
+						"w": 1005,
+						"h": 657
+					}
+				},
+				{
+					"filename": "__cage_smash_from_side_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 237,
+						"w": 958,
+						"h": 573
+					},
+					"frame": {
+						"x": 1,
+						"y": 2151,
+						"w": 958,
+						"h": 573
+					}
+				},
+				{
+					"filename": "__cage_smash_from_side_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 248,
+						"w": 958,
+						"h": 562
+					},
+					"frame": {
+						"x": 1,
+						"y": 2726,
+						"w": 958,
+						"h": 562
+					}
+				},
+				{
+					"filename": "__cage_shake_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 279,
+						"y": 203,
+						"w": 697,
+						"h": 609
+					},
+					"frame": {
+						"x": 2453,
+						"y": 1,
+						"w": 697,
+						"h": 609
+					}
+				},
+				{
+					"filename": "__cage_smash_from_side_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 497,
+						"w": 969,
+						"h": 313
+					},
+					"frame": {
+						"x": 1,
+						"y": 3290,
+						"w": 969,
+						"h": 313
+					}
+				},
+				{
+					"filename": "__cage_smash_from_top_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 406,
+						"w": 1224,
+						"h": 391
+					},
+					"frame": {
+						"x": 1227,
+						"y": 720,
+						"w": 1224,
+						"h": 391
+					}
+				},
+				{
+					"filename": "__cage_smash_from_top_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 406,
+						"w": 1224,
+						"h": 391
+					},
+					"frame": {
+						"x": 1227,
+						"y": 720,
+						"w": 1224,
+						"h": 391
+					}
+				},
+				{
+					"filename": "__cage_smash_from_side_006",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 558,
+						"w": 1094,
+						"h": 252
+					},
+					"frame": {
+						"x": 1193,
+						"y": 1113,
+						"w": 1094,
+						"h": 252
+					}
+				},
+				{
+					"filename": "__cage_smash_from_side_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 558,
+						"w": 1094,
+						"h": 252
+					},
+					"frame": {
+						"x": 1193,
+						"y": 1113,
+						"w": 1094,
+						"h": 252
+					}
+				},
+				{
+					"filename": "__cage_base_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 251,
+						"w": 710,
+						"h": 535
+					},
+					"frame": {
+						"x": 2453,
+						"y": 612,
+						"w": 710,
+						"h": 535
+					}
+				},
+				{
+					"filename": "__cage_shake_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 251,
+						"w": 710,
+						"h": 535
+					},
+					"frame": {
+						"x": 2453,
+						"y": 612,
+						"w": 710,
+						"h": 535
+					}
+				},
+				{
+					"filename": "__cage_smash_from_side_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 251,
+						"w": 710,
+						"h": 535
+					},
+					"frame": {
+						"x": 2453,
+						"y": 612,
+						"w": 710,
+						"h": 535
+					}
+				},
+				{
+					"filename": "__cage_smash_from_top_000",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 207,
+						"y": 251,
+						"w": 710,
+						"h": 535
+					},
+					"frame": {
+						"x": 2453,
+						"y": 612,
+						"w": 710,
+						"h": 535
+					}
+				},
+				{
+					"filename": "__cage_smash_from_top_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 214,
+						"w": 843,
+						"h": 572
+					},
+					"frame": {
+						"x": 1193,
+						"y": 1367,
+						"w": 843,
+						"h": 572
+					}
+				},
+				{
+					"filename": "__cage_shake_004",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 226,
+						"w": 792,
+						"h": 569
+					},
+					"frame": {
+						"x": 2289,
+						"y": 1149,
+						"w": 792,
+						"h": 569
+					}
+				},
+				{
+					"filename": "__cage_smash_from_side_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 175,
+						"y": 237,
+						"w": 792,
+						"h": 550
+					},
+					"frame": {
+						"x": 1008,
+						"y": 1941,
+						"w": 792,
+						"h": 550
+					}
+				},
+				{
+					"filename": "__cage_smash_from_side_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 181,
+						"y": 237,
+						"w": 786,
+						"h": 549
+					},
+					"frame": {
+						"x": 961,
+						"y": 2493,
+						"w": 786,
+						"h": 549
+					}
+				},
+				{
+					"filename": "__cage_shake_003",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 168,
+						"y": 240,
+						"w": 746,
+						"h": 535
+					},
+					"frame": {
+						"x": 972,
+						"y": 3044,
+						"w": 746,
+						"h": 535
+					}
+				},
+				{
+					"filename": "__cage_shake_007",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 258,
+						"y": 221,
+						"w": 686,
+						"h": 572
+					},
+					"frame": {
+						"x": 1802,
+						"y": 1941,
+						"w": 686,
+						"h": 572
+					}
+				},
+				{
+					"filename": "__cage_shake_005",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 200,
+						"y": 229,
+						"w": 728,
+						"h": 552
+					},
+					"frame": {
+						"x": 1749,
+						"y": 2515,
+						"w": 728,
+						"h": 552
+					}
+				},
+				{
+					"filename": "__cage_shake_009",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 214,
+						"y": 246,
+						"w": 704,
+						"h": 535
+					},
+					"frame": {
+						"x": 1720,
+						"y": 3069,
+						"w": 704,
+						"h": 535
+					}
+				},
+				{
+					"filename": "__cage_shake_002",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 258,
+						"y": 219,
+						"w": 682,
+						"h": 567
+					},
+					"frame": {
+						"x": 2490,
+						"y": 1720,
+						"w": 682,
+						"h": 567
+					}
+				},
+				{
+					"filename": "__cage_shake_008",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 226,
+						"y": 241,
+						"w": 692,
+						"h": 535
+					},
+					"frame": {
+						"x": 2426,
+						"y": 3069,
+						"w": 692,
+						"h": 535
+					}
+				},
+				{
+					"filename": "__cage_shake_001",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1225,
+						"h": 864
+					},
+					"spriteSourceSize": {
+						"x": 241,
+						"y": 234,
+						"w": 686,
+						"h": 551
+					},
+					"frame": {
+						"x": 2479,
+						"y": 2515,
+						"w": 686,
+						"h": 551
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1f8c252f25013ba0f0093ad7d5f8889c:2a6b96e02ec67dd899409ae1f87fc4f9:d201db41c8cc2f981ef38fb48e1576cc$"
+	}
+}
