@@ -32,9 +32,15 @@ export default class titleScene extends Phaser.Scene {
             if (this.knight.anims.currentFrame.index == 6) {
               this.sound.play("swordHit");
               this.goblin.play("goblin1Die").on(
-                "animationcomplete",
+                "animationcomplete-goblin1Die",
                 function () {
-                  this.cameras.main.fadeOut(1000, 0, 0, 0);
+                  this.cameras.main.fadeOut(1000, 0, 0, 0).on(
+                    "camerafadeoutcomplete",
+                    function () {
+                      this.scene.start("Level1");
+                    },
+                    this
+                  );
                 },
                 this
               );
@@ -45,5 +51,32 @@ export default class titleScene extends Phaser.Scene {
       },
       this
     );
+
+    this.titleText = this.add.text(800, 450, "Knight's Quest", {
+      fontSize: "128px",
+      fill: "#fff",
+    });
+    this.titleText.setOrigin(0.5);
+    this.titleText.setStroke("#000", 6);
+    this.titleText.setShadow(2, 2, "#333333", 2, true, true);
+    this.titleText.setDepth(1);
+    this.blinkingText = this.add.text(800, 650, "Press Spacebar to Start", {
+      fontSize: "72px",
+      fill: "#fff",
+    });
+    this.blinkingText.setOrigin(0.5);
+    this.blinkingText.setStroke("#000", 3);
+    this.blinkingText.setShadow(2, 2, "#333333", 2, true, true);
+    this.blinkingText.setDepth(1);
+    this.tweens.add({
+
+      targets: this.blinkingText,
+      alpha: 0,
+      duration: 1000,
+      ease: "Linear",
+      repeat: -1,
+      yoyo: true,
+  
+    })
   }
 }

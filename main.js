@@ -1,6 +1,6 @@
-import preloadScene from "./preload.js";
-import titleScene from "./title.js";
-import level1Scene from "./level1.js";
+import preloadScene from "./src/scenes/preload.js";
+import titleScene from "./src/scenes/title.js";
+import level1Scene from "./src/scenes/level1.js";
 
 // set game configuration
 let config = {
